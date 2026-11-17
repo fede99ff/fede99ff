@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Federico 
-- 👀 I’m interested in computers, algorithms and AI
-- 🌱 I’m currently studing computer engineering at la sapienza
-- 💞️ I’m looking to collaborate on anything that might interest me and be helpfull for people 
+- 👀 my main interests are Ai, recsys and algorithm.
 - 📫 You can reach me at federicoandrea.c@gmail.com
 
 <!---
